@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="welcome_to_android_rao">Welcome to Android Rao</string>
+    <string name="please_enter_your_name_here">Please enter your name here</string>
+</resources>
